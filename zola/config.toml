@@ -1,5 +1,5 @@
-base_url = "___SITE_URL___"
-title = "___SITE_TITLE___"
+base_url = "https://nachinolkar.netlify.app"
+title = "Thoughts at FiftyOne"
 
 build_search_index = true
 compile_sass = true
